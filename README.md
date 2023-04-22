@@ -1,1 +1,1 @@
-# stiry
+# story
